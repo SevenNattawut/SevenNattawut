@@ -43,7 +43,7 @@
 - Cooking
 - Watching Anime
 - Reading Manga
-- Collecting Games Official Artbooks
+- Collecting Game Artbooks
 
 
 
