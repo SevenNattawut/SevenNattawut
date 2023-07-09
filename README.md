@@ -13,7 +13,7 @@
 ## ABOUT ME ☺️
 
 <p align="center">
-    "I'm a freshly graduated student from CPE @KMUTT who have a passion for programming and application development. I'm interested in designing and coding some random web applications or webpages to sharpen up my web application development skill. Other than web application development, I also have a passion in game designing and development!"
+    "I'm a freshly graduated student from CPE @KMUTT who have a passion for programming and application development. I'm interested in designing and developing web applications or webpages to sharpen up my web application development skill. Other than web application development, I also have a passion in game designing and development!"
 </p>
 
 ## TECHNILOGIES & TOOLS 💻
@@ -24,6 +24,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
