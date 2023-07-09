@@ -2,7 +2,7 @@
 
 ![banner_gif](https://github.com/SevenNattawut/SevenNattawut/assets/90675334/b46fec47-128c-4856-af06-91ae2d13270c)
 
-<!-- will add gif/improve video banner later -->
+<!-- Gif was made in Figma -> record the prototype -> use Canva to turn to HD gif -->
 
 <h3 align="center">
     Hi, I'm Nattawut Na Lumpoon, people also call me Seven!
