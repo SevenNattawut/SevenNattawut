@@ -1,5 +1,5 @@
 <div align="center">
-    <video src="./banner_vdo.mp4"></video>
+    https://github.com/SevenNattawut/SevenNattawut/assets/90675334/6e2fc19c-6879-451c-b62a-7ec36e8861bf
 </div>
 
 <h3 align="center">
