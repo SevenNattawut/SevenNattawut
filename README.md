@@ -4,10 +4,6 @@ https://github.com/SevenNattawut/SevenNattawut/assets/90675334/6e2fc19c-6879-451
     Hi, I'm Nattawut Na Lumpoon, people also call me Seven!
 </h3>
 
-<p>
-  #coding #design #webDev #uxui #gameDev #RPG #cooking #freshGraded #gaming
-</p>
-
 ## ABOUT ME ☺️
 
 <p align="center">
