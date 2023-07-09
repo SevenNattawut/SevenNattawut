@@ -1,5 +1,7 @@
 https://github.com/SevenNattawut/SevenNattawut/assets/90675334/6e2fc19c-6879-451c-b62a-7ec36e8861bf
 
+<!-- will add gif/improve video banner later -->
+
 <h3 align="center">
     Hi, I'm Nattawut Na Lumpoon, people also call me Seven!
 </h3>
