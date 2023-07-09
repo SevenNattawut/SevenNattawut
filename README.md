@@ -1,4 +1,6 @@
-https://github.com/SevenNattawut/SevenNattawut/assets/90675334/6e2fc19c-6879-451c-b62a-7ec36e8861bf
+<!-- https://github.com/SevenNattawut/SevenNattawut/assets/90675334/6e2fc19c-6879-451c-b62a-7ec36e8861bf -->
+
+![banner_gif](https://github.com/SevenNattawut/SevenNattawut/assets/90675334/b46fec47-128c-4856-af06-91ae2d13270c)
 
 <!-- will add gif/improve video banner later -->
 
