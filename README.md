@@ -1,6 +1,6 @@
 <div align="center">
 <!--     https://github.com/SevenNattawut/SevenNattawut/assets/90675334/6e2fc19c-6879-451c-b62a-7ec36e8861bf -->
-    https://www.figma.com/proto/0kFma803EiA74HYKrrLNPG/GitHub-banner?page-id=0%3A1&type=design&node-id=15-1908&viewport=-723%2C222%2C0.53&t=ZtsVfK4BhTIBEAVl-1&scaling=scale-down-width&starting-point-node-id=1%3A2&mode=design
+    <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F0kFma803EiA74HYKrrLNPG%2FGitHub-banner%3Fpage-id%3D0%253A1%26type%3Ddesign%26node-id%3D5-412%26viewport%3D-723%252C222%252C0.53%26t%3DZtsVfK4BhTIBEAVl-1%26scaling%3Dscale-down-width%26starting-point-node-id%3D1%253A2%26mode%3Ddesign" allowfullscreen></iframe>
 </div>
 
 <h3 align="center">
