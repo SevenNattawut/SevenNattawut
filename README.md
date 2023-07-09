@@ -1,5 +1,6 @@
 <div align="center">
-    https://github.com/SevenNattawut/SevenNattawut/assets/90675334/6e2fc19c-6879-451c-b62a-7ec36e8861bf
+<!--     https://github.com/SevenNattawut/SevenNattawut/assets/90675334/6e2fc19c-6879-451c-b62a-7ec36e8861bf -->
+    https://www.figma.com/proto/0kFma803EiA74HYKrrLNPG/GitHub-banner?page-id=0%3A1&type=design&node-id=15-1908&viewport=-723%2C222%2C0.53&t=ZtsVfK4BhTIBEAVl-1&scaling=scale-down-width&starting-point-node-id=1%3A2&mode=design
 </div>
 
 <h3 align="center">
