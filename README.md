@@ -1,6 +1,5 @@
 <div align="center">
-<!--     https://github.com/SevenNattawut/SevenNattawut/assets/90675334/6e2fc19c-6879-451c-b62a-7ec36e8861bf -->
-    <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F0kFma803EiA74HYKrrLNPG%2FGitHub-banner%3Fpage-id%3D0%253A1%26type%3Ddesign%26node-id%3D5-412%26viewport%3D-723%252C222%252C0.53%26t%3DZtsVfK4BhTIBEAVl-1%26scaling%3Dscale-down-width%26starting-point-node-id%3D1%253A2%26mode%3Ddesign" allowfullscreen></iframe>
+    https://github.com/SevenNattawut/SevenNattawut/assets/90675334/6e2fc19c-6879-451c-b62a-7ec36e8861bf
 </div>
 
 <h3 align="center">
