@@ -1,6 +1,6 @@
-<p align="center">
-    <!-- add banner image -->
-</p>
+<div align="center">
+    <video src="./banner_vdo.mp4"></video>
+</div>
 
 <h3 align="center">
     Hi, I'm Nattawut Na Lumpoon, people also call me Seven!
