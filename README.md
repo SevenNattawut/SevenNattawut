@@ -40,7 +40,6 @@
 ## HOBBIES ✨
 
 - Coding
-- Gaming
 - Cooking
 - Watching Anime
 - Reading Manga
